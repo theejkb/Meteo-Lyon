@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_main_margin_top">16dp</dimen>
+    <dimen name="title_main_margin_bottom">16dp</dimen>
+    <dimen name="item_machin_avatar_size">60dp</dimen>
+    <dimen name="item_label_margin_start">36dp</dimen>
+</resources>
